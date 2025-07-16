@@ -1,1 +1,5 @@
-print("Hello From branch test")
+import machine
+led = machine.Pin(2, machine.Pin.OUT)
+
+led.value(1)
+
