@@ -1,1 +1,1 @@
-Hello
+"test from inside dir"
